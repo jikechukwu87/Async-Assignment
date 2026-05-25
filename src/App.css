@@ -1,0 +1,27 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+div{
+  margin: 10px;
+
+  color: white;
+  font-weight: 100;
+ 
+}
+
+.userbox{
+  border: 1px solid white;
+
+}
